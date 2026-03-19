@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${file}", // 현재 열려 있는 JS 파일을 실행
+            "cwd": "${workspaceFolder}",
+            // 만약 PATH 등록 후에도 못 찾는다면 아래 주석을 풀고 실제 경로 입력
+            // "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe" 
+        }
+    ]
+}
