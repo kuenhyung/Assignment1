@@ -1,15 +1,14 @@
-# "Node.js Tutorial - How to Build a Web Server"
+# Assignment1"
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+Clone 
+Run it in Visual Studio Code (or any other tool)
+Add a statement somewhere in the cloned code ‘console.log(“My_NAME”);’
+Understand the code
 
-**Description:**
-
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
-
-[YouTube Tutorial](https://youtu.be/3ZAKY-CDKog) for this repository.
-
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
-
-### Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+Take screenshots of it running
+Then explain what the code is/does
+Complete assignment before 2026-03-31, 11:59 PM
+Upload/Commit your code to GitHub repository
+PDF report (explaining the code)
+Email me the code (GitHub link only) and the pdf report. Mention student ID in the email.
+<img width="1513" height="507" alt="image" src="https://github.com/user-attachments/assets/1006fcba-7687-4fb6-92bd-c2ef00c319ac" />
