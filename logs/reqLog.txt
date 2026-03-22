@@ -93,3 +93,16 @@
 20260319	10:55:59	a1afa541-d770-43a0-a44a-950525321a30	/application	GET
 20260319	10:55:59	60fed6aa-7250-4d9b-800a-a94ff4af1b7a	/.well-known/appspecific/com.chrome.devtools.json	GET
 20260319	10:55:59	18608c63-a38b-487f-a288-65a223e51539	/css/style.css	GET
+20260319	12:00:10	c8d94381-8916-4fac-82f9-abaf2da96586	/data/data	GET
+20260319	12:00:10	2d6fbfeb-13ab-49c4-b22a-91263ae0c7d7	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260319	12:00:10	27abd564-891d-4418-be9e-b3f1b8dc4bed	/css/style.css	GET
+20260319	12:00:13	f514c70c-4513-4d7b-8fac-7cb0f7f2bf3c	/data/data	GET
+20260319	12:00:13	e32c281e-e6e7-400b-817f-2fac67b825c6	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260319	12:00:13	64352703-9f0b-44d9-a516-0afd5d877a20	/css/style.css	GET
+20260319	12:00:39	beb2bf5a-2b85-4eca-8388-63bf415c56b6	/data/data.txt	GET
+20260319	12:00:39	169a95eb-2187-4674-a75d-cad29434a35b	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260319	12:00:48	54763447-6f49-457f-b6ed-a12240bf08fb	/data/data.json	GET
+20260319	12:00:48	41841c74-f9ac-4dfb-b9a4-b54aa8d3d952	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260322	21:11:05	bb253e5b-7c9c-4c54-8ab5-9f97b81da0fe	/	GET
+20260322	21:11:05	7820b1a3-af57-4cbd-88e8-20dd913f73d8	/css/style.css	GET
+20260322	21:11:05	9f094769-9465-416e-9509-edfd3ba2eb0d	/favicon.ico	GET
